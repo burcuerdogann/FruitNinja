@@ -2,6 +2,6 @@
  
 Android Development / Java Tutorial - Lesson 29
 
-FruitNinja Game
+FruitNinja Android Game (Java)
 
-LibGDX
+LibGDX | SpriteBatch | ShapeRenderer | Texture
